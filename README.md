@@ -6,7 +6,7 @@ TapSay专为居家瘫靠在椅背上折腾氛围编程（Vibe Coding）特别优
 
 
 <p align="center">
-<img src="assets/tapsay1.png" width="600">
+<img src="assets/TapSay1.png" width="600">
 </p>
 
 TapSay是一款轻量局域网控制工具。
